@@ -36,3 +36,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 Realese 1: interfaz de navegancion y base de datos
 Realese 2: Manejo de carrito
+Release 3: Administracion de ordees, marcar orden completa
